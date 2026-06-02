@@ -86,13 +86,13 @@ Python + Data Stack           ████████████████�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokul6040&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=C9D1D9" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul6040&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=C9D1D9" alt="Top Languages" />
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering-00F5A0?style=for-the-badge&labelColor=111827" alt="Focus"/>
+<img src="https://img.shields.io/badge/Building-RAG%20Systems-00F5A0?style=for-the-badge&labelColor=111827" alt="Building"/>
+<img src="https://img.shields.io/badge/Learning-Agentic%20AI-00F5A0?style=for-the-badge&labelColor=111827" alt="Learning"/>
 
 </div>
+
+---
 
 ---
 
