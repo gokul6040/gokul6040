@@ -1,43 +1,31 @@
 <!-- GitHub Profile README for gokul6040 -->
-
 <div align="center">
-
-# Hi, I'm Gokul D. Raj 👋
-
-### AI Engineer
-
+Hi, I'm Gokul D. Raj 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F5A0&center=true&vCenter=true&width=720&lines=AI+Engineer;Machine+Learning+%7C+Deep+Learning;RAG+%7C+LangChain+%7C+Agentic+AI;Building+context-aware+AI+systems" alt="Typing animation" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:203A43,100:00F5A0&height=170&section=header&text=AI%20Engineer&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ML%20%7C%20DL%20%7C%20RAG%20%7C%20LangChain%20%7C%20Agentic%20AI&descSize=18&descAlignY=62" width="100%" alt="AI Engineer Banner" />
+<br/>
 <a href="https://www.linkedin.com/in/gokuldraj/">
   <img src="https://img.shields.io/badge/LinkedIn-Gokul%20D.%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/gokul6040">
   <img src="https://img.shields.io/badge/GitHub-gokul6040-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
+<img src="https://komarev.com/ghpvc/?username=gokul6040&label=Profile%20Views&color=00F5A0&style=for-the-badge" alt="Profile views"/>
 </div>
-
 ---
-
-## About
-
-I'm **Gokul D. Raj**, an **AI Engineer** from **Kollam, Kerala, India**.
-
-I work with **Machine Learning**, **Deep Learning**, **Retrieval-Augmented Generation**, and **Agentic AI**. I’m interested in building AI systems that are practical, context-aware, and reliable.
-
-Currently, I’m focused on RAG pipelines, LLM-based applications, LangChain workflows, and intelligent AI systems.
-
+About
+I'm Gokul D. Raj, an AI Engineer from Kollam, Kerala, India.
+I work with Machine Learning, Deep Learning, Retrieval-Augmented Generation, and Agentic AI. I’m interested in building AI systems that are practical, context-aware, and reliable.
 ```txt
 Role       : AI Engineer
 Location   : Kollam, Kerala
 Education  : Amrita Vishwa Vidyapeetham
-Interests  : ML, DL, RAG, Agentic AI
+Focus      : ML, DL, RAG, LangChain, Agentic AI
 ```
-
 ---
-
-## Tech Stack
-
+Tech Stack
 <div align="center">
-
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00F5A0" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=00F5A0" alt="SQL"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=00F5A0" alt="Machine Learning"/>
@@ -48,67 +36,47 @@ Interests  : ML, DL, RAG, Agentic AI
 <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=00F5A0" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=00F5A0" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F5A0" alt="GitHub"/>
-
 </div>
-
 ---
-
-## Areas I Work With
-
+Current Work
 ```txt
-Machine Learning
-Deep Learning
-Retrieval-Augmented Generation
-LangChain
-Agentic AI
-Python for AI Engineering
-Data Processing with Pandas and NumPy
-SQL for data querying and analysis
+Working as       : AI Engineer
+Building around  : RAG pipelines, LLM apps, AI agents
+Exploring        : Agentic workflows, retrieval systems, production-ready ML
+Interested in    : Practical AI systems that solve real problems
 ```
-
 ---
-
-## What I'm Interested In
-
-I like working on systems that combine data, language models, and useful automation.
-
+AI Engineering Focus
 ```txt
-RAG systems
-LLM applications
-AI agents
-Knowledge-based assistants
-ML pipelines
-AI workflow automation
+Machine Learning              ████████████████████
+Deep Learning                 ██████████████████░░
+Retrieval-Augmented Gen       ███████████████████░
+LangChain                     ██████████████████░░
+Agentic AI                    █████████████████░░░
+Python + Data Stack           ████████████████████
 ```
-
 ---
-
-## GitHub
-
+GitHub Activity
 <div align="center">
-
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering-00F5A0?style=for-the-badge&labelColor=111827" alt="Focus"/>
-<img src="https://img.shields.io/badge/Building-Context%20Aware%20AI-00F5A0?style=for-the-badge&labelColor=111827" alt="Building"/>
-<img src="https://img.shields.io/badge/Learning-Agentic%20AI-00F5A0?style=for-the-badge&labelColor=111827" alt="Learning"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=gokul6040&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=C9D1D9" alt="GitHub Stats" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul6040&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=C9D1D9" alt="Top Languages" />
 </div>
-
 ---
-
-## Connect
-
+Contribution Snake
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/gokul6040/gokul6040/output/snake.svg" alt="Contribution Snake" />
+</div>
+---
+Connect
+<div align="center">
 <a href="https://www.linkedin.com/in/gokuldraj/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gokul%20D.%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00F5A0" alt="LinkedIn"/>
 </a>
-
 </div>
-
 ---
-
 <div align="center">
-
-**AI Engineer | ML | DL | RAG | LangChain | Agentic AI**
-
+AI Engineer | ML | DL | RAG | LangChain | Agentic AI
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:203A43,100:0D1117&height=110&section=footer" width="100%" alt="Footer" />
 </div>
