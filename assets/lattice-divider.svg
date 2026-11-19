@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="28" viewBox="0 0 1040 28" fill="none">
+  <path d="M0 14H418L448 5H485L520 14L555 23H592L622 14H1040" stroke="#298678"/>
+  <path d="M418 14L448 23H485L520 14L555 5H592L622 14M485 5V23M555 5V23" stroke="#35A892"/>
+  <g fill="#49C9AF">
+    <circle cx="418" cy="14" r="2"/>
+    <circle cx="448" cy="5" r="2"/>
+    <circle cx="448" cy="23" r="2"/>
+    <circle cx="485" cy="5" r="2"/>
+    <circle cx="485" cy="23" r="2"/>
+    <circle cx="555" cy="5" r="2"/>
+    <circle cx="555" cy="23" r="2"/>
+    <circle cx="592" cy="5" r="2"/>
+    <circle cx="592" cy="23" r="2"/>
+    <circle cx="622" cy="14" r="2"/>
+  </g>
+  <circle cx="520" cy="14" r="3" fill="#7CF7E3"/>
+</svg>
