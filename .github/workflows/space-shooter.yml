@@ -1,0 +1,37 @@
+name: Update Space Shooter
+
+on:
+  push:
+    paths:
+      - .github/workflows/space-shooter.yml
+  schedule:
+    - cron: "23 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-space-shooter
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.event_name == 'schedule' || (github.ref_type == 'branch' && github.ref_name == github.event.repository.default_branch)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 2
+
+      - name: Generate and commit the contribution GIF
+        uses: czl9707/gh-space-shooter@96d45ed9a790300da731b9fc49b95d697f528464 # v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: gokul6040
+          output-path: space-shooter.gif
+          strategy: random
+          fps: "25"
+          no-amend: "true"
