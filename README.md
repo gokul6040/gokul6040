@@ -42,6 +42,7 @@ A browser-based scheduling workspace that uses Google OR-Tools CP-SAT to plan th
 - **Data and optimization** · Pandas, NumPy, OR-Tools CP-SAT
 
 ## GitHub activity
+![An arcade spaceship blasting through my GitHub contribution graph](./space-shooter.gif)
 
 [View my contribution graph and recent activity](https://github.com/gokul6040#js-contribution-activity)
 
